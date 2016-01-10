@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#D0D0D0'
+    - '#684810'
+    - '#887858'
+    - '#806028'
+    - '#000000'
+  brandStrength: 0.814889
+  lightness: 0.798519
+  rhythmicContrast: 0.653782
+  saturation: 0.722039
+cta: {}
+layout_spectrum: 0.208881
+name: idalena
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.040296
